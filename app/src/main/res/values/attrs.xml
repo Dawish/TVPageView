@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  TVPageView -->
+    <declare-styleable name="TVPageView">
+        <attr name="pageLayoutIds" format="string" />
+        <attr name="pageLayoutSizes" format="string" />
+
+    </declare-styleable>
+
+</resources>
